@@ -1,0 +1,12 @@
+# Sistema / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Segredos: este projeto NÃO usa nenhum, mas nunca os publique
+.env
+.env.*
+*.pem
+*.key
+config.local.*
